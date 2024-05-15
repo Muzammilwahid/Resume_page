@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(/backgroundpic/pexels-rovenimages-com-344613-949587.jpg);
+    padding: 20px;
+}
+
+.resume {
+    max-width: 800px;
+    margin: auto;
+    background-image:url(/backgroundpic/4770cf05fe96befcdcd74204ba533198.jpg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 4em;
+    color: #0b0909;
+}
+
+header p {
+    margin: 5px 0;
+    color: #090707;
+}
+
+.contact-info p {
+    margin: 2px 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+    color: #120d0d;
+    border-bottom: 2px solid #4CAF50;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.job, .school {
+    margin-bottom: 15px;
+}
+
+.job h3, .school h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.company, .institution {
+    font-weight: bold;
+    color: #555;
+}
+
+.dates {
+    font-style: italic;
+    color: #777;
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 5px 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills ul li {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+}
